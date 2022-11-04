@@ -1,0 +1,59 @@
+.img-background {
+  max-width: 100%;
+  max-height: 100%;
+
+  /* height: auto; */
+  /* width: auto; */
+}
+
+h1 {
+  width: 100%;
+  margin-top: 6%;
+  position: absolute;
+  font-size: 8vw;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 5px;
+}
+h4 {
+  width: 100%;
+  margin-top: 35%;
+  position: absolute;
+  font-size: 4vw;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 5px;
+}
+h3 {
+  width: 100%;
+  margin-top: 40%;
+  position: absolute;
+  font-size: 4vw;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 5px;
+}
+#clock {
+  width: 100%;
+  position: absolute;
+  font-size: 9vw;
+  color: white;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  margin-top: 25%;
+}
+#date {
+  width: 100%;
+  position: absolute;
+  font-size: 7vw;
+  color: white;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  margin-top: 18%;
+}
